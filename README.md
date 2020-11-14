@@ -7,9 +7,9 @@ Todo
 
 ### Retinex-Based Algorithm
 
-[2016 *CVPR*] **MF:** A weighted variational model for simultaneous reflectance and illumination estimation [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780673) [code](https://xueyangfu.github.io/paper/2016/cvpr/Matlab_implementation.zip)
+[2016 *CVPR*] **MF:** A weighted variational model for simultaneous reflectance and illumination estimation [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780673) [Code](https://xueyangfu.github.io/Paper/2016/cvpr/Matlab_implementation.zip)
 
-[2017 *TIP*] **LIME:** Low-Light Image Enhancement via Illumination Map Estimation [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7782813) [code](https://sites.google.com/view/xjguo/lime)
+[2017 *TIP*] **LIME:** Low-Light Image Enhancement via Illumination Map Estimation [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7782813) [Code](https://sites.google.com/view/xjguo/lime)
 
 ### Denoise-Based Algorithm
 
@@ -17,28 +17,28 @@ Todo
 
 ### Supervised-Deep-Learning Algorithm
 
-[2020 *CVPR*] Learning to Restore Low-Light Images via Decomposition-and-Enhancement [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_paper.pdf)
+[2020 *CVPR*] Learning to Restore Low-Light Images via Decomposition-and-Enhancement [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_Paper.pdf)
 
-[2019 *Preprint*] Attention-guided Low-light Image Enhancement [paper](https://arxiv.org/pdf/1908.00682.pdf) <!--[code](http://phi-ai.org/project/AgLLNet/default.htm)-->
+[2019 *Preprint*] Attention-guided Low-light Image Enhancement [Paper](https://arxiv.org/pdf/1908.00682.pdf) <!--[Code](http://phi-ai.org/project/AgLLNet/default.htm)-->
 
-[2018 *BMVC*] **Retinex-Net:** Deep Retinex Decomposition for Low-Light Enhancement [paper](https://arxiv.org/pdf/1808.04560.pdf) [code](https://github.com/weichen582/RetinexNet)
+[2018 *BMVC*] **Retinex-Net:** Deep Retinex Decomposition for Low-Light Enhancement [Paper](https://arxiv.org/pdf/1808.04560.pdf) [Code](https://github.com/weichen582/RetinexNet)
 
-[2018 *FG*] **GLADNet:** Low-Light Enhancement Network with Global Awareness [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8373911) [code](https://github.com/weichen582/GLADNet)
+[2018 *FG*] **GLADNet:** Low-Light Enhancement Network with Global Awareness [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8373911) [Code](https://github.com/weichen582/GLADNet)
 
-[2018 *CVPR*] Learning to See in the Dark [paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Learning_to_See_CVPR_2018_paper.pdf) [code](https://github.com/cchen156/Learning-to-See-in-the-Dark)
+[2018 *CVPR*] Learning to See in the Dark [Paper](https://openaccess.thecvf.com/content_cvpr_2018/Papers/Chen_Learning_to_See_CVPR_2018_Paper.pdf) [Code](https://github.com/cchen156/Learning-to-See-in-the-Dark)
 
 #### Semi-Supervised-Deep-Learning Algorithm
 
-[2020 *CVPR*] **DRBN:** From Fidelity to Visual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.pdf) [code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
+[2020 *CVPR*] **DRBN:** From Fidelity to Visual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_Paper.pdf) [Code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
 
 #### Unsupervised-Deep-Learning Algorithm
 
-[2020 *CVPR*] **Zero-DCE:** Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_paper.pdf) [code](https://github.com/Li-Chongyi/Zero-DCE)
+[2020 *CVPR*] **Zero-DCE:** Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_Paper.pdf) [Code](https://github.com/Li-Chongyi/Zero-DCE)
 
 [2020.2 *SPL*] Unsupervised Low-Light Image Enhancement Using
-Bright Channel Prior [paper](https://ieeexplore.ieee.org/document/8955834)
+Bright Channel Prior [Paper](https://ieeexplore.ieee.org/document/8955834)
 
-[2019.6 *Preprint*] **EnlightenGAN:** Deep Light Enhancement without Paired Supervision [paper](https://arxiv.org/abs/1906.06972) [codes](https://github.com/TAMU-VITA/EnlightenGAN)
+[2019.6 *Preprint*] **EnlightenGAN:** Deep Light Enhancement without Paired Supervision [Paper](https://arxiv.org/abs/1906.06972) [Codes](https://github.com/TAMU-VITA/EnlightenGAN)
 
 ## Datasets
 
@@ -58,21 +58,21 @@ Exclusively-Dark-Image-Dataset [Download](https://github.com/cs-chan/Exclusively
 
 #### Full Reference Quality Indexes
 
-MSE 
+MSE [Matlab](https://www.mathworks.com/help/images/ref/immse.html)
 
-PSNR
+PSNR [Matlab](https://www.mathworks.com/help/images/ref/psnr.html)
 
-SSIM
+SSIM [Matlab](https://www.mathworks.com/help/images/ref/ssim.html)
 
-UQI
+UQI [Matlab](https://live.ece.utexas.edu/research/Quality/zhou_research_anch/quality_index/demo.html)
 
-TQMI
+TQMI [Matlab](https://ece.uwaterloo.ca/~z70wang/research/tmqi/)
 
 #### No-Reference Quality Indexes
 
-NIQE
+NIQE [Matlab](https://www.mathworks.com/help/images/ref/niqe.html) 
 
-LOE
+LOE [Matlab](https://shuhangwang.wordpress.com/2015/12/14/naturalness-preserved-enhancement-algorithm-for-non-uniform-illumination-images/)
 
 ## Related Work
 
