@@ -1,11 +1,23 @@
 # Awesome-Low-Light-Image-Enhancement
 
 ## Papers and Codes
+### Review && Related Work
+[2021 *IJCV*] Benchmarking Low-Light Image Enhancement and Beyond [Paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01418-8.pdf)
+
+[2020 *IEEE ACCESS*] An Experiment-Based Review of Low-Light
+Image Enhancement Methods [Paper](https://ieeexplore.ieee.org/document/9088214)
+
+
+
 ### HE-Based Algorithm
 
 Todo
 
 ### Retinex-Based Algorithm
+[2020 *TIP*] LR3M: Robust Low-Light Enhancement via
+Low-Rank Regularized Retinex Model [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9056796)
+
+[2018 *TIP*] Structure-Revealing Low-Light Image Enhancement via Robust Retinex Model [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304597)
 
 [2016 *CVPR*] **MF:** A weighted variational model for simultaneous reflectance and illumination estimation [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7780673) [Code](https://xueyangfu.github.io/Paper/2016/cvpr/Matlab_implementation.zip)
 
@@ -16,6 +28,7 @@ Todo
 Todo
 
 ### Supervised-Deep-Learning Algorithm
+[2021 *TIP*] Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328179)
 
 [2020 *CVPR*] Learning to Restore Low-Light Images via Decomposition-and-Enhancement [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_Paper.pdf)
 
@@ -27,11 +40,11 @@ Todo
 
 [2018 *CVPR*] Learning to See in the Dark [Paper](https://openaccess.thecvf.com/content_cvpr_2018/Papers/Chen_Learning_to_See_CVPR_2018_Paper.pdf) [Code](https://github.com/cchen156/Learning-to-See-in-the-Dark)
 
-#### Semi-Supervised-Deep-Learning Algorithm
+### Semi-Supervised-Deep-Learning Algorithm
 
 [2020 *CVPR*] **DRBN:** From Fidelity to Visual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_Paper.pdf) [Code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)
 
-#### Unsupervised-Deep-Learning Algorithm
+### Unsupervised-Deep-Learning Algorithm
 
 [2020 *CVPR*] **Zero-DCE:** Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Guo_Zero-Reference_Deep_Curve_Estimation_for_Low-Light_Image_Enhancement_CVPR_2020_Paper.pdf) [Code](https://github.com/Li-Chongyi/Zero-DCE)
 
@@ -39,6 +52,13 @@ Todo
 Bright Channel Prior [Paper](https://ieeexplore.ieee.org/document/8955834)
 
 [2019.6 *Preprint*] **EnlightenGAN:** Deep Light Enhancement without Paired Supervision [Paper](https://arxiv.org/abs/1906.06972) [Code](https://github.com/TAMU-VITA/EnlightenGAN)
+
+### Application
+[2021 *TMM*] Recurrent Exposure Generation for Low-Light Face Detection [Paper](https://arxiv.org/pdf/2007.10963.pdf)
+
+[2021 *CVPR*] HLA-Face: Joint High-Low Adaptation for Low Light Face Detection [Paper](https://arxiv.org/pdf/2104.01984.pdf)
+
+[2020 *ACM MM*] Integrating Semantic Segmentation and Retinex Model [Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413757)
 
 ## Datasets
 
@@ -94,6 +114,6 @@ To do
 }
 ```
 
-If your research interests is related to low-light image enhancement, we can communicate together, email: ymshi@mail.ustc.edu.cn
+If your research interests is related to low-light image enhancement, we can communicate together, email: ymshi At mail.ustc.edu.cn
 
 Welcome to pull requests or create issues!
