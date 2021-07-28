@@ -8,7 +8,6 @@
 Image Enhancement Methods [Paper](https://ieeexplore.ieee.org/document/9088214)
 
 
-
 ### HE-Based Algorithm
 
 Todo
@@ -28,11 +27,14 @@ Low-Rank Regularized Retinex Model [Paper](https://ieeexplore.ieee.org/stamp/sta
 Todo
 
 ### Supervised-Deep-Learning Algorithm
-[2021 *TIP*] Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328179)
+[2021 *TIP*] Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9328179)
+
+[2021 *IJCV*] Attention-guided Low-light Image Enhancement [Paper](https://arxiv.org/pdf/1908.00682.pdf) [Code](https://github.com/yu-li/AGLLNet)
+
+[2021 *Preprint*] R2RNet: Low-light Image Enhancement via Real-low to Real-normal Network [Paper](https://arxiv.org/pdf/2106.14501.pdf) [Code](https://github.com/abcdef2000/R2RNet)
 
 [2020 *CVPR*] Learning to Restore Low-Light Images via Decomposition-and-Enhancement [Paper](https://openaccess.thecvf.com/content_CVPR_2020/Papers/Xu_Learning_to_Restore_Low-Light_Images_via_Decomposition-and-Enhancement_CVPR_2020_Paper.pdf)
 
-[2019 *Preprint*] Attention-guided Low-light Image Enhancement [Paper](https://arxiv.org/pdf/1908.00682.pdf) <!--[Code](http://phi-ai.org/project/AgLLNet/default.htm)-->
 
 [2018 *BMVC*] **Retinex-Net:** Deep Retinex Decomposition for Low-Light Enhancement [Paper](https://arxiv.org/pdf/1808.04560.pdf) [Code](https://github.com/weichen582/RetinexNet)
 
@@ -52,6 +54,9 @@ Todo
 Bright Channel Prior [Paper](https://ieeexplore.ieee.org/document/8955834)
 
 [2019.6 *Preprint*] **EnlightenGAN:** Deep Light Enhancement without Paired Supervision [Paper](https://arxiv.org/abs/1906.06972) [Code](https://github.com/TAMU-VITA/EnlightenGAN)
+
+### Low-light Video Enhancement
+[2021 *CVPR*] [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Learning_Temporal_Consistency_for_Low_Light_Video_Enhancement_From_Single_CVPR_2021_paper.pdf) [Code](https://github.com/zkawfanx/StableLLVE)
 
 ### Application
 [2021 *TMM*] Recurrent Exposure Generation for Low-Light Face Detection [Paper](https://arxiv.org/pdf/2007.10963.pdf)
@@ -75,6 +80,8 @@ MIT-Adobe FiveK Dataset [Download](https://data.csail.mit.edu/graphics/fivek/)
 Exclusively-Dark-Image-Dataset [Download](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset)
 
 Darkface [Download](https://flyywh.github.io/ChinaMM2019FDLOL/)
+
+LSRW [Download](https://github.com/abcdef2000/R2RNet)
 
 ## Indexes 
 
@@ -107,13 +114,13 @@ To do
 ## Citing
 
 ```
-@Misc{2020shiALLIE,
+@Misc{2021shiALLIE,
 	howpublished = {\url{https://github.com/ymmshi/Awesome-Low-Light-Enhancement}},
 	title = {Awesome-Low-Light-Image-Enhancement},
 	author = {ymshi},
 }
 ```
 
-If your research interests is related to low-light image enhancement, we can communicate together, email: ymshi At mail.ustc.edu.cn
+If your research interests is related to low-light image enhancement, please contact us, email: ymshi At mail.ustc.edu.cn
 
 Welcome to pull requests or create issues!
